@@ -98,7 +98,7 @@ Gneiss.defaultGneissChartConfig = {
 		}
 	],
 	sourceline: "",
-	creditline: "Made with Chartbuilder"
+	creditline: "Platte Basin Timelapse Project"
 };
 
 Gneiss.dateParsers = {
